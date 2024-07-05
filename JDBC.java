@@ -14,7 +14,7 @@ public class JDBC {
     private Connection conn = null;
     private String URL = "jdbc:postgresql://localhost:5432/BusTransitSystemSim";
     private String USER = "postgres";
-    private String PASS = "thetimebreak";
+    private String PASS = "enter your password here";
     private boolean success = false;
 
     // constructor connects to database
